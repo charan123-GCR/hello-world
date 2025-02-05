@@ -50,3 +50,8 @@ public:
 };  
 
 #endif // STUDENT_H  
+
+class faculty {  
+private:  
+    std::string name;  ///< Name of the student  
+     
